@@ -22,5 +22,10 @@ After installing Python, you can install Jupyter Notebook using pip:
   ```bash
   pip install notebook
   ```
+### 3. **Running Jupyter Notebook**
 
-
+Navigate to the workshop material directory using the command line or terminal, then run:
+  ```bash
+  jupyter-notebook
+  ```
+This command will start a web server and open the notebook in your default web browser.
